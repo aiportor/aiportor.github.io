@@ -2,30 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/blog/</loc>
+    <loc>https://aiportor.github.io/</loc>
     <lastmod>2025-01-15T19:42:32+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://aiportor.github.io/posts/</loc>
     <lastmod>2025-01-15T19:42:32+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-15T19:42:32+08:00</lastmod>
+    <loc>https://aiportor.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2025-01-15T19:42:32+08:00</lastmod>
+    <loc>https://aiportor.github.io/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-15T19:42:32+08:00</lastmod>
+    <loc>https://aiportor.github.io/tag/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-01-15T19:42:32+08:00</lastmod>
+    <loc>https://aiportor.github.io/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tag/</loc>
-  </url><url>
-    <loc>http://localhost:1313/archives/</loc>
-  </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://aiportor.github.io/search/</loc>
   </url>
 </urlset>
