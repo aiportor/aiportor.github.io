@@ -14,13 +14,12 @@
     <lastBuildDate>Wed, 15 Jan 2025 19:42:32 +0800</lastBuildDate>
     <atom:link href="https://aiportor.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>基于github pages和hugo搭建个人博客小记</title>
       <link>https://aiportor.github.io/posts/my-first-post/</link>
       <pubDate>Wed, 15 Jan 2025 19:42:32 +0800</pubDate>
       <guid>https://aiportor.github.io/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+&lt;p&gt;这篇博文只有记录了基于&lt;strong&gt;github page&lt;/strong&gt;和&lt;strong&gt;hugo&lt;/strong&gt;搭建个人博客系统，主要内容都是参考网上文章。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
